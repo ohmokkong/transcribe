@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # `trans.py` — 음성 파일 전사 및 화자 분리
 
 ## 개요
@@ -109,3 +110,7 @@ python trans.py debate.mp3 ko --num-speakers 2
 ## License
 
 MIT
+=======
+# transcribe
+Transcribe audio files into text with speaker diarization.
+>>>>>>> cfccc2c83aa8be0de94fb38399b2162e1eccb8c1
